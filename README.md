@@ -1,15 +1,13 @@
 # functional-tic-tac-toe
 
-I'm an app. Or maybe I'm a library? I haven't decided yet.
-
-The choice is up to you!
+An implementation of tic-tac-toe with no variables.
 
 ## Usage
 
-FIXME
+To start the game type (-main) at the REPL.  It also works from an uberjar.
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 Rick Hall
 
 Distributed under the Eclipse Public License, the same as Clojure.
